@@ -26,7 +26,7 @@ def main():
             'bpp-popgen':True,
             'bpp-phyl':True,
             'bppsuite':False}
-    giturl = 'https://github.com/BioPP'
+    giturl = 'http://biopp.univ-montp2.fr/git'
     doxygenfile = 'Doxyfile'
     installdir = '/usr/local/'
     basedir = os.getcwd()
