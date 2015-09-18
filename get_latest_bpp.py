@@ -18,8 +18,8 @@ def main():
             ('bpp-core','master'),
             ('bpp-seq','master'),
             ('bpp-popgen','master'),
-            ('bpp-phyl','master'),
-            ('bppsuite','master')])
+            ('bpp-phyl','newlik'),
+            ('bppsuite','newlik')])
     rundoxygen = {
             'bpp-core':True,
             'bpp-seq':True,
